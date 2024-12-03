@@ -15,7 +15,7 @@ This project is a simple, minimalist, and clean To Do list designed to help user
 ![App Preview](https://i.imgur.com/rpm1EpK.png)
 
 ### Live demo
-You can access a live demo of the To Do list app here: [Clean ToDo Preview](https://guimilreu.github.io/clean-todo/)
+You can access a live demo of the To Do list app here: 
 
 ## Getting Started
 
@@ -57,8 +57,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Guilherme Milreu - [@guimilreu](https://twitter.com/guimilreu)
-
-Project Link: [https://github.com/guimilreu/clean-todo](https://github.com/guimilreu/clean-todo)
