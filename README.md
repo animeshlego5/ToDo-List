@@ -1,6 +1,6 @@
 # Clean ToDo
 
-This project is a simple, minimalist, and clean To Do list designed to help users manage their tasks efficiently. Built with React and employing NextUI and TailwindCSS for styling, it offers an intuitive and visually appealing interface. Feather icons are used to enhance the UI with elegant and easily recognizable icons.
+This project is a simple, minimalist, and clean ToDo list designed to help users manage their tasks efficiently. Built with React and employing NextUI and TailwindCSS for styling, it offers an intuitive and visually appealing interface. Feather icons are used to enhance the UI with elegant and easily recognizable icons.
 
 ## Features
 
